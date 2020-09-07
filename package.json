@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "NodeJS Crash Course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-King/NodeJS-Crash-Course.git"
+  },
+  "author": "Joseph King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-King/NodeJS-Crash-Course/issues"
+  },
+  "homepage": "https://github.com/Joseph-King/NodeJS-Crash-Course#readme",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
